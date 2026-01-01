@@ -3,7 +3,7 @@
 Firefox Addon mutes ads and gives you meditation time and clicks "Skip" button automatically.
 This is not an Ad blocker.
 
-**Verified the Addon works on Firefox146.0** (as of 2026/Jan/1st).
+**Verified the Addon worked on Firefox146.0** (as of 2026/Jan/1st).
 
 This Addon is based on the following Addons:
 - https://github.com/eperezcosano/yt-ad-autoskipper
