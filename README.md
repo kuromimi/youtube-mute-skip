@@ -1,13 +1,13 @@
 # Youtube mute-skip Reiwa-latest version
 
-A browser addon mutes ads and gives you meditation time and clicks "Skip" button automatically.
+Firefox Addon mutes ads and gives you meditation time and clicks "Skip" button automatically.
 This is not an Ad blocker.
 
-This addon is a fork of the following addons:
-  https://github.com/eperezcosano/yt-ad-autoskipper
-  https://github.com/squgeim/yt-ad-autoskipper
+This Addon is based on the following Addons:
+- https://github.com/eperezcosano/yt-ad-autoskipper
+- https://github.com/squgeim/yt-ad-autoskipper
 
-Those addons havenot been maintained for years; I just merged them and cleaned some files. I didnot really do anything. Thank you to everyone who was involved in the development.
+Those Addons havenot been maintained for years; I just merged them and cleaned some files. I didnot really do anything. Thank you to everyone who was involved in the development.
 
 ## Download for Firefox
 
