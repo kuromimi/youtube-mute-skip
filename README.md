@@ -12,5 +12,4 @@ This Addon is based on the following Addons:
 Those Addons havenot been maintained for years; I just merged them and cleaned some files. I didnot really do anything. Thank you to everyone who was involved in the development.
 
 ## Download for Firefox
-
-[Get it from Firefox Addon Marketplace](https://addons.mozilla.org/en-US/firefox/addon/youtube-mute-skip/
+Get it from Firefox Addon Marketplace (https://addons.mozilla.org/en-US/firefox/addon/youtube-mute-skip/
