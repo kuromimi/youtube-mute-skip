@@ -1,7 +1,9 @@
 # Youtube mute-skip Reiwa-latest version
 
 Firefox Addon mutes ads and gives you meditation time and clicks "Skip" button automatically.
-This is not an Ad blocker. Tested on Firefox146.0 (as of 2026/Jan/1st).
+This is not an Ad blocker.
+
+**Verified the Addon works on Firefox146.0** (as of 2026/Jan/1st).
 
 This Addon is based on the following Addons:
 - https://github.com/eperezcosano/yt-ad-autoskipper
@@ -11,4 +13,4 @@ Those Addons havenot been maintained for years; I just merged them and cleaned s
 
 ## Download for Firefox
 
-[Get it from Firefox Addon Marketplace](https://addons.mozilla.org/en-US/firefox/addon/xxxxxxxxxxper/
+[Get it from Firefox Addon Marketplace](https://addons.mozilla.org/en-US/firefox/addon/youtube-mute-skip/
